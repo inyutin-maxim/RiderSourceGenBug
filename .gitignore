@@ -1,0 +1,10 @@
+bin/
+obj/
+/packages/
+**/.idea/
+/Reo.RoutesCalculation.sln.DotSettings.user
+/.vs/
+*.suo
+**/Reo.RoutesCalculation/ExternalFolder/*.json
+**/*/ExternalFolder/**/*.*
+/Reo.RoutesCalculation/Generated/

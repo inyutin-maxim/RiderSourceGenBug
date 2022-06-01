@@ -1,0 +1,13 @@
+[
+  {
+    "permissionName": "route_read",
+    "description": "Просмотр списка и карточки расчета.",
+    "value": "fs_route_read"
+  },
+
+  {
+    "permissionName": "route_write",
+    "description": "Просмотр списка и карточки расчета.",
+    "value": "fs_route_write"
+  }
+]
